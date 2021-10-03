@@ -1,6 +1,6 @@
 # webcam-js
 
-<p>buat structur html nya seperti ini </p>
+<h3>buat structur html nya seperti ini </h3>
 
 ````html
    <h1>webcam js</h1>
@@ -33,6 +33,8 @@
 
 <h1> Mengambil foto dengan javascript</h1>
 
+<p>buat button buat mengambil.foto</p>
+
 ````html
      <button onclick="ambilFoto()">Ambil Gambar</button>
 ````
@@ -59,4 +61,4 @@
 
 ````
 
-##dan selamat anda telah membuat 1 kamera sederhana dengan javascript
+# dan selamat anda telah membuat 1 kamera sederhana dengan javascript
